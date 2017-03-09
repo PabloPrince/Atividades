@@ -1,7 +1,7 @@
 '''
 Created on 9 de mar de 2017
 
-@author: Pablo (pabloipu@gmail.com)
+@author: PabloP (pabloipu@gmail.com)
 '''
 from math import log
 
